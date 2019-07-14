@@ -1,7 +1,7 @@
 # Adversarial Attacks
 In the repo there are a number of adversarial attack methods.
 Implemented Methods: 
-* __Fast Gradient Sign Method(FSGM)__,  
+* __Fast Gradient Sign Method(FGSM)__,  
 * __One-step Target Class Method__,
 * __Basic Iterative Fast Gradient Sign Method__.
 

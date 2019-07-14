@@ -1,12 +1,12 @@
 # Adversarial Attacks
-In the repo there are a number of adversarial attack methods.
+In the repo there are a number of adversarial attack methods. These algorithms have been implemented with __Python__ via __Tensorflow-2__ in jupyter notebooks.
+
 ### Implemented Methods: 
 * __Fast Gradient Sign Method(FGSM)__,  
 * __One-step Target Class Method__,
 * __Basic Iterative Fast Gradient Sign Method__,
 * __Iterative Least-likely Class Method__.
 
-These algorithms have been implemented with __Python__ via __Tensorflow-2__ in jupyter notebooks.
 
 
 

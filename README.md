@@ -10,14 +10,14 @@ In the repo there are a number of adversarial attack methods. These algorithms h
 
 
 
-##### Implementations based on following papers:  
+##### Implementations are based on following papers:  
 [__Explaining and Harnessing Adversarial Examples__](https://arxiv.org/abs/1412.6572)  
 [__Adversarial Machine Learning at Scale__](https://arxiv.org/abs/1611.01236)
 
 
 
 
-##### Theses resources helped alot:  
+##### Theses resources have been used partially:  
 https://github.com/soumyac1999/FGSM-Keras,  
 https://github.com/YunYang1994/TensorFlow2.0-Examples,  
 https://www.tensorflow.org/beta/tutorials/generative/adversarial_fgsm

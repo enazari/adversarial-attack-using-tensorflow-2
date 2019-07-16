@@ -17,7 +17,7 @@ In the repo there are a number of adversarial attack methods. These algorithms h
 
 
 
-##### A a large amount of the credit goes to:  
+##### Large amount of the credit goes to:  
 https://github.com/soumyac1999/FGSM-Keras,  
 https://github.com/YunYang1994/TensorFlow2.0-Examples,  
 https://www.tensorflow.org/beta/tutorials/generative/adversarial_fgsm
